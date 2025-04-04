@@ -1,5 +1,5 @@
-#Ejercicio 11
-# invertir secuencias de DNA
+#Ejercicio 13
+# contar cuantos nt hay en cada secuencia 
 
 secuencias = input("Dame secuencias de DNA separadas por comas, por favor\n").split(", ")
 
